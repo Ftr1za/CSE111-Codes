@@ -1,5 +1,8 @@
+// Write a Java program that asks the user the length of an array (N) then takes N number of doubles as elements for the array as input. 
+// First, remove the consecutive duplicate elements from the original array to form a new array. 
+// Then print the number of elements removed from the original array. 
+
 import java.util.Scanner;
-import java.util.Arrays;
 public class L1T1 {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
