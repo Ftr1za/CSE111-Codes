@@ -2,7 +2,6 @@ public class Human {
     public int age;
     public double height;
 }
-
 //Tester:
 // public class HumanTester {
 //     public static void main(String args[]){
